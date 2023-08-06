@@ -1,0 +1,19 @@
+#master {
+  height: 960px;
+  width: 960px;
+  border: solid red 1px;
+  display: flex;
+  box-sizing: content-box;
+  flex-wrap: wrap;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  margin: 15px 30px;
+}
+
+.buttons {
+  display: flex;
+  margin-bottom: 15px;
+}
